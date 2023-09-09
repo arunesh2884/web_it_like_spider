@@ -1,0 +1,82 @@
+{
+    "event": {
+      "name": "TechFusion Hackathon",
+      "date": "2023-10-15",
+      "location": "Virtual",
+      "description": "Join us for an exciting 48 hours of innovation, coding, and collaboration at the TechFusion Hackathon! Bring your creative ideas to life and compete for awesome prizes.",
+      "registration": {
+        "open": true,
+        "deadline": "2023-10-10"
+      },
+      "sponsors": [
+        {
+          "name": "InnovateTech",
+          "logo": "https://example.com/logos/innovate_tech_logo.png"
+        },
+        {
+          "name": "CodeCrafters",
+          "logo": "https://example.com/logos/code_crafters_logo.png"
+        }
+      ],
+      "organizers": [
+        {
+          "name": "TechCommunity",
+          "website": "https://techcommunity.org"
+        }
+      ],
+      "social_media": {
+        "twitter": "https://twitter.com/TechFusionHack",
+        "facebook": "https://www.facebook.com/TechFusionHack",
+        "instagram": "https://www.instagram.com/techfusionhack"
+      }
+    },
+    "schedule": [
+      {
+        "time": "2023-10-15 09:00:00",
+        "activity": "Registration and Team Formation"
+      },
+      {
+        "time": "2023-10-15 10:00:00",
+        "activity": "Opening Ceremony and Keynote"
+      },
+      {
+        "time": "2023-10-15  12:00:00",
+        "activity": "Hacking Begins"
+      },
+      {
+        "time": "2023-10-16  12:00:00",
+        "activity": "Submission Deadline"
+      },
+      {
+        "time": "2023-10-16   13:00:00",
+        "activity": "Project Presentations"
+      },
+      {
+        "time": "2023-10-16  15:00:00",
+        "activity": "Judging and Prizes"
+      }
+ 
+    ],
+    "faq": [
+      {
+        "question": "Who can participate in the hackathon?",
+        "answer": "The hackathon is open to students, professionals, and enthusiasts from all around the world."
+      },
+      {
+        "question": "Do I need a team to participate?",
+        "answer": "You can participate individually or in teams of up to 4 members."
+      },
+      {
+        "question": "What should I bring to the event?",
+        "answer": "Make sure you have a stable internet connection, your laptop, chargers, and any other tools you might need for coding."
+      },
+      {
+        "question": "How can I contact the organizers?",
+        "answer": "For any inquiries, you can reach out to us at contact@techfusionhack.com"
+      },
+      {
+        "question":"does newly added question visible?",
+        "answer":"yes,its not visible"
+      }
+    ]
+  }
